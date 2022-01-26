@@ -1,0 +1,8 @@
+Run in graphic mode:
+
+kex --win -s
+
+Run in seamless mode:
+
+
+kex --sl -s
